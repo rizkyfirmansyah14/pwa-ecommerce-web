@@ -1,0 +1,23 @@
+{
+    "short_name": "Pembangunan Prima",
+    "name": "Pembangunan Prima",
+    "icons": [
+      {
+        "src": "/images/icons-192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "maskable any"
+      },
+      {
+        "src": "/images/icons-512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "maskable any"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#FBB83B"
+  }
